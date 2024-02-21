@@ -1,6 +1,7 @@
 # Deanery-Service-System
 Bachelor thesis for AGH. Ze względu na umowę z uczelnią kod aplikacji oraz sama praca nie może zostać udostępniona.
 
+## Cel projektu
 &nbsp; &nbsp; Głównym celem projektu jest usprawnienie komunikacji między studentami a dziekanatamiAkademii Górniczo-Hutniczej w Krakowie. <br />
 &nbsp; &nbsp; Jednym z najczęściej doświadczanych problemów studentów jest przeładowana wiadomościami skrzynka pocztowa. Każdy student od momentu rozpoczęcia studiów zakłada konta na
 wielu serwisach potrzebnych do realizacji kursów. Wadą tego rozwiązania są napływające wiadomości z tychże serwisów, choć kolejne semestry mijają, realizowane są kolejne kursy, konta
@@ -14,7 +15,7 @@ informacje pogrupowane byłyby wedle roku bądź kierunku. Wtedy student byłby 
 Punktem wyjścia i motywacją jest wspieranie komunikacji między dziekanatem a studentami, stąd powstała potrzeba stworzenia portalu w formie forum, który zostanie nazwany -
 Studencki Panel Informacyjny.
 
-##Stos technologiczny
+## Stos technologiczny
 ### Backend: 
 - Spring
 - PostgreSQL
